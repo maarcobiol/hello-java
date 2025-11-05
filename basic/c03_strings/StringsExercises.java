@@ -11,9 +11,16 @@ public class StringsExercises {
 
         // 1. Concatena dos cadenas de texto.
 
+        String text1 = " Hola soc en";
+        String text2 = "Marc";
+        String concatenat text1 + " " + text2;
+
+
         // 2. Muestra la longitud de una cadena de texto.
 
+
         // 3. Muestra el primer y último carácter de un string.
+            
 
         // 4. Convierte a mayúsculas y minúsculas un string.
 
